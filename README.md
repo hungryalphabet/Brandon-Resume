@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, I'm Brandon 
 
-<!--
-**hungryalphabet/hungryalphabet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am an IT professional with hands-on experience in Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Objective]
+
+My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+
+| Skill                                          | Associated Project         |
+|------------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis           | 
+| 
+
+
+Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link]
+
+
+Certifications
+A+
+Network+
+Security+
+
+
+
+
