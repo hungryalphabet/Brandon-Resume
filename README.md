@@ -21,4 +21,4 @@ Security+
 
 
 ## Projects
-- <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>|
+- <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>
