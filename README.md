@@ -6,7 +6,7 @@ My journey in IT has let me to develop a passion for cybersecurity, and I am now
 
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis           | 
+| SIEM Implementation and Log Analysis           | <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>|
 | 
 
 
@@ -20,5 +20,5 @@ Network+
 Security+
 
 
-
-
+## Projects
+- <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>|
