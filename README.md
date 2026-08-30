@@ -1,10 +1,6 @@
 ## Hello, I'm Brandon 
 
-[Brief Introduction]
-
 I am an IT professional with hands-on experience in Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity.
-
-[Objective]
 
 My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
