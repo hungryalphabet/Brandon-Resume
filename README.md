@@ -4,6 +4,8 @@ I am an IT professional with hands-on experience in Linux, Kubernetes, networkin
 
 My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
+Below are my personal projects I have been building in my free time to demonstrate hands-on cybersecurity skills. This portfolio is continuously expanding as I build and document additional projects. 
+
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis           | <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>|
