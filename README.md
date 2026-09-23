@@ -1,15 +1,8 @@
 ## Hello, I'm Brandon 
 
-I am an IT professional with professional experience with Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity. My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+I am an IT professional with professional experience in Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity. My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-
-
-
-
-
-
-
-Below are my personal projects I have been building in my free time to demonstrate hands-on cybersecurity skills. This portfolio is continuously expanding as I build and document additional projects. 
+Below are my personal projects I have been building to demonstrate hands-on cybersecurity skills. This portfolio is continuously expanding as I build and document additional projects. 
 
 ## Personal Projects
 
