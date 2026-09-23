@@ -1,10 +1,17 @@
 ## Hello, I'm Brandon 
 
-I am an IT professional with hands-on experience in Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity.
+I am an IT professional with hands-on experience in Linux, Kubernetes, networking, and system troubleshooting, looking to apply my technical skills and transition into cybersecurity. My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-My journey in IT has let me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+
+
+
+
+
+
 
 Below are my personal projects I have been building in my free time to demonstrate hands-on cybersecurity skills. This portfolio is continuously expanding as I build and document additional projects. 
+
+## Personal Projects
 
 | Skill                                          | Associated Project         |
 |------------------------------------------------|----------------------------|
@@ -18,5 +25,3 @@ Below are my personal projects I have been building in my free time to demonstra
 
 
 
-## Projects
-- <a href='https://github.com/hungryalphabet/Wazuh-SIEM-homelab/tree/main'>Wazuh SIEM Homelab</a>
